@@ -1,0 +1,1 @@
+streamlit>=1.40,<2\npandas>=2.2,<3\nopenai>=1.50,<3\n
